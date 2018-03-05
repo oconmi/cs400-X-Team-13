@@ -9,15 +9,18 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+- Have people volunteer for various tasks that they would like to do/feel they are best suited to
+- If this encounters difficulty have the team leader assign tasks to team members
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+- Post updated code often and check in with each other to ensure that there is consistency
+- If anyone is falling behind on their section check in to see if they are stuck or just busy
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+- If someone is encountering an issue that they are having serious difficulties resolving they should attempt to get help from others in navigating the obstacle
+- If a member feels that they will not be able to complete a task in the necessary time, they should request help from the rest of the group
 
 
 ## How we will back up each other to ensure that deadlines are not missed
