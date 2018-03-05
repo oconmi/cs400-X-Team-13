@@ -66,7 +66,7 @@ Our comments are aimed at improving the readability and maintainability of code 
 * inline comments
     * Inline comments will be used as needed to clarify code and explain high level functionality points.
     
-##Coding style
+## Coding style
 * if statements
     * Brackets
         * Opening brackets will be on the line of the if statement, and closing brackets wil be aligned with the begining of if statement
