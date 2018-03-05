@@ -22,7 +22,9 @@ and missed deadlines.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+- If a response is required on some group communication, trying to acheive no more than a 48 hour turn arround time
+- Striving to complete assignments at least 1 day prior to the deadline to allow time for review and submission
+- Assisting each other as needed when difficulties occur
 
 
 
