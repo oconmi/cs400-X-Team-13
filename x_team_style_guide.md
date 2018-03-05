@@ -36,17 +36,50 @@ Descriptive names should be chosen to improve code clarity
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+Our comments are aimed at improving the readability and maintainability of code by explaining key points of functionality
 
 ### Examples
 
 * classes
+    * Class level comments will describe the high level functionality of the class.
 * fields
+    * Feild comments will describe the purpose of the field.
 * constructors
+    * Constructor comments will contain at a minimum a summary of the purpose, as well as descriptions of every parameter.
+```
+/**
+ * This constructor initializes the Treenode with the provided key.
+ *
+ * @param key the key for the treenode
+ */
+```
 * methods
-* coding style (brackets, horizontal, and vertical spacing) for:
-  * if statements
-  * switch statement
-  * while loops
-  * for loops
-  * enhanced for loops
+    * Method comments will contain at a minimum a summary of the purpose, as well as descriptions of every parameter and return value.
+```
+/**
+ * The lookup method performs a binary search to find the key provided.
+ *
+ * @param key the key to be searched for.
+ * @return 
+ */
+```
+* inline comments
+    * Inline comments will be used as needed to clarify code and explain high level functionality points.
+    
+##Coding style
+* if statements
+    * Brackets
+        * Opening brackets will be on the line of the if statement, and closing brackets wil be aligned with the begining of if statement
+    * Spacing
+        * If statements will have a space between if and () as well as between () and {. Contents of if statement will be indented 4 spaces
+* switch statement
+    * Brackets
+        * 
+    * Spacing
+        * 
+* while loops
+    * Same as if statement
+* for loops
+    * Same as if statement
+* enhanced for loops
+    * same as if statement
