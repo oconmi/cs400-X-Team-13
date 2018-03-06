@@ -4,7 +4,7 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1: SavannahOlson-CS400
-       * GitHub username 2:Smulvey2
+       * GitHub username 2: oconmi
        * GitHub username 3:
        * GitHub username 4:
    * When did you complete this exercise? 
