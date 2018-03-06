@@ -18,7 +18,8 @@ Descriptive names should be chosen to improve code clarity
     * Name should give a understanding of the cause and start with uppercase.  Must end with Exception.
     * Eg. DuplicateKeyException, UnknownTypeException, IntegerSizeException, etc.
 * fields
-    * 
+    * Name should be lowercase and relate to the name and purpose of the class.
+    * Eg. (In a class named "Student"): name, graduationYear, gradePointAverage, etc.
 * methods
     * Method names should begin with a verb and be in camel case. Name should reasonably describe the functionality of the method.
     * Eg. setKey(), addInteger(), buildSnowman(), etc.
